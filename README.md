@@ -1,5 +1,7 @@
+高斯数据库系统SQL
 # gauss_perf_sql
 --查看当前数据库的配置项情况
+
 SELECT * FROM DV_PARAMETERS
 --查看版本
 SELECT * FROM DV_VERSION
